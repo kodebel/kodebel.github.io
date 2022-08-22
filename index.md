@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Selamat datang di blog Kodebel.
 
-Maybe say a some things about yourself.
+blog ini berisi kode yang dirasa penting untuk dibagikan oleh penulis.
 
-Or maybe what you plan to blog about.
+Semoga dari tulisan-tulisan ini ada yang bermanfaat untuk pembaca.
