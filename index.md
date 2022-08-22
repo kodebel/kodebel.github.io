@@ -1,5 +1,5 @@
-Selamat datang di blog Kodebel.
+Selamat datang di blog Kodebel *(Kode Gembel).
 
-blog ini berisi kode yang dirasa penting untuk dibagikan oleh penulis.
+Blog ini berisi kode yang dirasa penting untuk dibagikan oleh penulis.
 
 Semoga dari tulisan-tulisan ini ada yang bermanfaat untuk pembaca.
